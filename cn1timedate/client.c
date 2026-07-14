@@ -47,3 +47,4 @@ int main() {
     return 0;
 }
 // gcc client.c -o client
+// ./client
