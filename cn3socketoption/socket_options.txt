@@ -1,0 +1,8 @@
+IP_TTL          : 64
+IP_HDRINCL      : 0
+TCP_NODELAY     : 0
+TCP_MAXSEG      : 536
+TCP_CORK        : 0
+TCP_KEEPIDLE    : 7200 seconds
+TCP_KEEPINTVL   : 75 seconds
+TCP_KEEPCNT     : 9 probes
